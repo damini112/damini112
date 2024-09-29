@@ -1,7 +1,7 @@
 # Hi, I'm Damini Chadha! 👩‍💻
 
 ### 👩‍🔬 Daughter, Engineer & Mentor  
-I am a **Cloud Engineer** at **TCS**, where I focus on managing large-scale cloud projects for the largest privately held bank in Taiwan. I specialize in **Kubernetes (K8s) cluster management** and constantly explore new **security tools** to enhance cloud infrastructure. I enjoy mentoring my team and helping them excel in cloud technologies.
+I am a **Cloud Engineer** at **TCS**, where I have worked on cloud projects and am currently managing a large-scale cloud project for the largest privately held bank in Taiwan. I specialize in **Kubernetes (K8s) cluster management** and constantly explore new **security tools** to enhance cloud infrastructure. I enjoy mentoring my team and helping them excel in cloud technologies.
 
 ### 🌱 What I'm Learning: <img src="https://github.com/damini112/Profile-GIFs/blob/main/cute-girl.gif" width="400px" align="right"/> 
 - **Azure Cloud & K8s Security**
