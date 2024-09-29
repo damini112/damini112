@@ -1,7 +1,7 @@
 # Hi, I'm Damini Chadha! 👩‍💻
 
 ### 👩‍🔬 Daughter, Engineer & Mentor  
-I am a **Cloud Engineer** at **TCS**, where I have worked on cloud projects and am currently managing a large-scale cloud project for the largest privately held bank in Taiwan. I specialize in **Kubernetes (K8s) cluster management** and constantly explore new **security tools** to enhance cloud infrastructure. I enjoy mentoring my team and helping them excel in cloud technologies.
+I am a **Cloud Engineer** at **TCS**, where I’ve had the opportunity to work on some really exciting cloud projects, and am currently managing a major cloud initiative for the largest privately held bank in Taiwan. I specialize in **Kubernetes (K8s) cluster management** and constantly explore new **security tools** to enhance cloud infrastructure. I enjoy mentoring my team and helping them excel in cloud technologies.
 
 ### 🌱 What I'm Learning: <img src="https://github.com/damini112/Profile-GIFs/blob/main/cute-girl.gif" width="400px" align="right"/> 
 - **Azure Cloud & K8s Security**
@@ -14,7 +14,7 @@ I am a **Cloud Engineer** at **TCS**, where I have worked on cloud projects and 
 
 ### 📚 Blogging on Medium:
 I contribute to the **cloud community** by writing on Medium, sharing my knowledge on **Kubernetes** and **cloud security**.  
-Feel free to check out my [Medium Blog](https://medium.com/@yourprofile)!
+Feel free to check out my [Medium Blog](https://medium.com/@itsmedaminichadha)!
 
 ### 😄 Pronouns:
 **She/Her**
@@ -23,7 +23,11 @@ Feel free to check out my [Medium Blog](https://medium.com/@yourprofile)!
 I’m open to collaborating on **open-source cloud projects**, and I enjoy mentoring others on **cloud computing** and **Kubernetes**.  
 **💬 Ask me about anything!**
 
-- 📫 How to reach me **https://www.linkedin.com/in/daminichadha/**
+### 📫 How to reach me:  
+<a href="https://www.linkedin.com/in/daminichadha/">
+     <img src="https://i.pinimg.com/originals/92/07/be/9207bed6b3d0b9e9b97e8005d171cb3b.png" width="25" height="25" />
+</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
