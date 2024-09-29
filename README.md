@@ -1,8 +1,4 @@
-# Hi, I'm Damini Chadha! 👩‍💻  
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/1f7c7a6c-8055-4cc4-aed1-68317fe78c9e" alt="cute-girl-with-laptop" width="280"/>
-</div>
+# Hi, I'm Damini Chadha! <img src="https://github.com/user-attachments/assets/1f7c7a6c-8055-4cc4-aed1-68317fe78c9e" alt="cute-girl-with-laptop" width="50"/>  
 
 ### <img src="https://github.com/damini112/Profile-GIFs/blob/main/hey.png" alt="Daughter" width="40"/> Daughter, Engineer & Mentor
 
