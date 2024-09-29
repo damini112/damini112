@@ -69,6 +69,3 @@ I’m open to collaborating on **open-source cloud projects**, and I enjoy mento
   </a>
 </p>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=damini112&show_icons=true&locale=en&layout=compact" alt="damini112" /></p>
-
